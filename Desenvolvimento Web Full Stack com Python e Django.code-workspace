@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../Desenvolvimento Web Full Stack com Python e Django"
+		},
+		{
+			"path": "../../../../Meus projetos/Tabela Copa do mundo 2022"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Tabela Copa do mundo 2022"
+	}
+}
